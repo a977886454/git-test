@@ -10,5 +10,6 @@ public class pushDemo {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+        System.out.println("hello git project");
     }
 }
